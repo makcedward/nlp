@@ -6,25 +6,29 @@ Coding for NLP hands-on sample
 	- Part 3: Lemmatization [Medium](https://medium.com/@makcedward/nlp-pipeline-lemmatization-part-3-4bfd7304957) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp_lemmatization.ipynb)
 	- Part 4: Stemming [Medium](https://medium.com/@makcedward/nlp-pipeline-stemming-part-4-b60a319fd52) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-stemming.ipynb)
 	- Part 5: Stop Words [Medium](https://medium.com/@makcedward/nlp-pipeline-stop-words-part-5-d6770df8a936) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-stop_words.ipynb)
-	- Part 6: Sentence Tokenization
+	- Part 6: Sentence Tokenization [Medium]() [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-sentence_tokenization.ipynb)
 	- Part 7: Phrase Word Recognition
 - Infomration Extraction
 	- Regular Expression
 	- Dictionary Recognition
 	- Named Entity Recognition (NER) [Medium](https://medium.com/@makcedward/named-entity-recognition-3fad3f53c91e) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-named_entity_recognition.ipynb)
 - Text Summarization
-	- Extractive Approach
+	- Extractive Approach [Medium](https://medium.com/@makcedward/text-summarization-extractive-approach-567fe4b85c23) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-text_summarization_extractive.ipynb)
 	- Abstractive Approach
 - Distance Measurement
 	- Euclidean Distance, Cosine Similarity and Jaccard Index
+	- Edit Distance
 	- Word Mover's Distance (WMD)
 - Word as a Feature
 	- Bag of Word (BoW)
 	- Term Frequency-Inverse Document Frequency (TF-IDF)
 - Vector Representation
 	- Character Embedding
-	- Word2Vec (w2v)
-	- Global Vectors for Word Representation (GloVe)
-	- fastText
-	- Doc2Vec (d2v)
+	- Word2Vec (word2vec) by Google
+	- Negative Sampling
+	- Global Vectors for Word Representation (GloVe) by Stanford
+	- fastText by Facebook
+	- Doc2Vec (doc2vec)
 	- Context Vectors (CoVe)
+- Others
+	- Negative Sampling and Hierarchical Softmax [Medium]()
