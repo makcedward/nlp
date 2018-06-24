@@ -8,27 +8,26 @@ Coding for NLP hands-on sample
 	- Part 5: Stop Words [Medium](https://medium.com/@makcedward/nlp-pipeline-stop-words-part-5-d6770df8a936) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-stop_words.ipynb)
 	- Part 6: Sentence Tokenization [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-sentence_tokenization.ipynb)
 	- Part 7: Phrase Word Recognition
-- Infomration Extraction
+- Infomration Retrieval
 	- Regular Expression
 	- Dictionary Recognition
 	- Named Entity Recognition (NER) [Medium](https://medium.com/@makcedward/named-entity-recognition-3fad3f53c91e) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-named_entity_recognition.ipynb)
+	- NER in Deep Learning
 - Text Summarization
 	- Extractive Approach [Medium](https://medium.com/@makcedward/text-summarization-extractive-approach-567fe4b85c23) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-text_summarization_extractive.ipynb)
 	- Abstractive Approach
 - Distance Measurement
-	- Euclidean Distance, Cosine Similarity and Jaccard Index
-	- Edit Distance
+	- Euclidean Distance, Cosine Similarity and Jaccard Similarity [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-3_basic_distance_measurment_in_text_mining.ipynb)
 	- Word Mover's Distance (WMD)
-- Word as a Feature
-	- Bag of Word (BoW)
-	- Term Frequency-Inverse Document Frequency (TF-IDF)
 - Vector Representation
+	- Bag of Word (BoW) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-bag_of_words.ipynb)
 	- Character Embedding [Medium](https://medium.com/@makcedward/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-character_embedding.ipynb)
 	- Word2Vec (word2vec)
-	- Negative Sampling
 	- Global Vectors for Word Representation (GloVe)
 	- fastText
 	- Doc2Vec (doc2vec)
 	- Context Vectors (CoVe)
 - Others
 	- Negative Sampling and Hierarchical Softmax
+- Myth
+	- Using Deep Learning can resolve all problem? [Medium](https://medium.com/@makcedward/how-can-use-player-name-to-predict-world-cup-with-80-accuracy-262d076544c4)[Kaggle](https://www.kaggle.com/makcedward/world-cup-prediction-with-80-accuracy-in-dl-model)
