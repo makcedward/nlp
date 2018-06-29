@@ -6,7 +6,7 @@ Coding for NLP hands-on sample
 	- Part 3: Lemmatization [Medium](https://medium.com/@makcedward/nlp-pipeline-lemmatization-part-3-4bfd7304957) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp_lemmatization.ipynb)
 	- Part 4: Stemming [Medium](https://medium.com/@makcedward/nlp-pipeline-stemming-part-4-b60a319fd52) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-stemming.ipynb)
 	- Part 5: Stop Words [Medium](https://medium.com/@makcedward/nlp-pipeline-stop-words-part-5-d6770df8a936) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-stop_words.ipynb)
-	- Part 6: Sentence Tokenization [Medium](publication@towardsdatascience.com) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-sentence_tokenization.ipynb)
+	- Part 6: Sentence Tokenization [Medium](https://medium.com/@makcedward/nlp-pipeline-sentence-tokenization-part-6-86ed55b185e6) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-sentence_tokenization.ipynb)
 	- Part 7: Phrase Word Recognition
 - Infomration Retrieval
 	- Regular Expression
