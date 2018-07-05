@@ -17,7 +17,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 	- Extractive Approach [Medium](https://medium.com/@makcedward/text-summarization-extractive-approach-567fe4b85c23) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-text_summarization_extractive.ipynb)
 	- Abstractive Approach
 - Distance Measurement
-	- Euclidean Distance, Cosine Similarity and Jaccard Similarity [Medium](https://towardsdatascience.com/3-basic-distance-measurement-in-text-mining-5852becff1d7) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-3_basic_distance_measurment_in_text_mining.ipynb)
+	- Euclidean Distance, Cosine Similarity and Jaccard Similarity [Medium](https://towardsdatascience.com/3-basic-distance-measurement-in-text-mining-5852becff1d7) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-3_basic_distance_measurement_in_text_mining.ipynb)
 	- Word Mover's Distance (WMD)
 - Vector Representation
 	- Bag of Word (BoW) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-bag_of_words.ipynb)
