@@ -23,7 +23,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 	- Bag of Word (BoW) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-bag_of_words.ipynb)
 	-  Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA)
 	- Character Embedding [Medium](https://medium.com/@makcedward/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-character_embedding.ipynb)
-	- Word Embedding (Word2Vec, GloVe, fastText)
+	- Word Embedding (Word2Vec, GloVe, fastText) [Medium](https://towardsdatascience.com/3-silver-bullets-of-word-embedding-in-nlp-10fa8f50cc5a) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_embedding.ipynb)
 	- Doc2Vec (doc2vec)
 	- Context Vectors (CoVe)
 - Others
