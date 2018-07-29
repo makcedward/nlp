@@ -29,6 +29,6 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 - Others
 	- Negative Sampling and Hierarchical Softmax
 - Metric
-	- Model Interpretation [Medium]() [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation.ipynb)
+	- Model Interpretation [Medium](https://towardsdatascience.com/3-ways-to-interpretate-your-nlp-model-to-management-and-customer-5428bc07ce15) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation.ipynb)
 - Myth
 	- Using Deep Learning can resolve all problem? [Medium](https://medium.com/@makcedward/how-can-use-player-name-to-predict-world-cup-with-80-accuracy-262d076544c4) [Kaggle](https://www.kaggle.com/makcedward/world-cup-prediction-with-80-accuracy-in-dl-model)
