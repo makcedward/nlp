@@ -9,10 +9,10 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 	- Part 6: Sentence Tokenization [Medium](https://medium.com/@makcedward/nlp-pipeline-sentence-tokenization-part-6-86ed55b185e6) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-sentence_tokenization.ipynb)
 	- Part 7: Phrase Word Recognition
 - Infomration Retrieval
-	- Regular Expression
-	- Dictionary Recognition
+	- Pattern-based Recognition [Medium](https://towardsdatascience.com/pattern-based-recognition-did-help-in-nlp-5c54b4e7a962)
+	- Lexicon-based Recognition
 	- off-the-shelf Named Entity Recognition (NER) [Medium](https://medium.com/@makcedward/named-entity-recognition-3fad3f53c91e) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-named_entity_recognition.ipynb)
-	- self build NER
+	- Custom Named Entity Recognition (NER)
 - Text Summarization
 	- Extractive Approach [Medium](https://medium.com/@makcedward/text-summarization-extractive-approach-567fe4b85c23) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-text_summarization_extractive.ipynb)
 	- Abstractive Approach
