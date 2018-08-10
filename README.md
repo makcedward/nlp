@@ -10,7 +10,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 	- Part 7: Phrase Word Recognition
 - Infomration Retrieval
 	- Pattern-based Recognition [Medium](https://towardsdatascience.com/pattern-based-recognition-did-help-in-nlp-5c54b4e7a962)
-	- Lexicon-based Recognition
+	- Lexicon-based Recognition 
 	- off-the-shelf Named Entity Recognition (NER) [Medium](https://medium.com/@makcedward/named-entity-recognition-3fad3f53c91e) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-named_entity_recognition.ipynb)
 	- Custom Named Entity Recognition (NER)
 - Text Summarization
@@ -21,9 +21,10 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 	- Word Mover's Distance (WMD)
 - Vector Representation
 	- Bag of Word (BoW) [Medium](https://towardsdatascience.com/3-basic-approaches-in-bag-of-words-which-are-better-than-word-embeddings-c2cbc7398016) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-bag_of_words.ipynb)
-	-  Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA)
+	- Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA) [Medium]() [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-lsa_lda.ipynb)
 	- Character Embedding [Medium](https://medium.com/@makcedward/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-character_embedding.ipynb)
 	- Word Embedding (Word2Vec, GloVe, fastText) [Medium](https://towardsdatascience.com/3-silver-bullets-of-word-embedding-in-nlp-10fa8f50cc5a) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_embedding.ipynb)
+	- LDA2vec
 	- Doc2Vec (doc2vec)
 	- Context Vectors (CoVe)
 - Others
