@@ -18,7 +18,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 	- Abstractive Approach
 - Distance Measurement
 	- Euclidean Distance, Cosine Similarity and Jaccard Similarity [Medium](https://towardsdatascience.com/3-basic-distance-measurement-in-text-mining-5852becff1d7) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-3_basic_distance_measurement_in_text_mining.ipynb)
-	- Word Mover's Distance (WMD)
+	- Word Mover's Distance (WMD) [Medium](https://towardsdatascience.com/word-distance-between-word-embeddings-cc3e9cf1d632) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_mover_distance.ipynb)
 - Vector Representation
 	- Bag of Word (BoW) [Medium](https://towardsdatascience.com/3-basic-approaches-in-bag-of-words-which-are-better-than-word-embeddings-c2cbc7398016) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-bag_of_words.ipynb)
 	- Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA) [Medium](https://towardsdatascience.com/2-latent-methods-for-dimension-reduction-and-topic-modeling-20ff6d7d547) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-lsa_lda.ipynb)
