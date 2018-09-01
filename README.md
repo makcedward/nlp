@@ -10,7 +10,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 	- Part 7: Phrase Word Recognition
 - Infomration Retrieval
 	- Pattern-based Recognition [Medium](https://towardsdatascience.com/pattern-based-recognition-did-help-in-nlp-5c54b4e7a962)
-	- Lexicon-based Recognition 
+	- Lexicon-based Recognition [Medium](https://towardsdatascience.com/step-out-from-regular-expression-for-feature-engineering-134e594f542c)
 	- off-the-shelf Named Entity Recognition (NER) [Medium](https://medium.com/@makcedward/named-entity-recognition-3fad3f53c91e) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-named_entity_recognition.ipynb)
 	- Custom Named Entity Recognition (NER)
 - Text Summarization
