@@ -32,6 +32,6 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 - Model Interpretation
 	- Skater, LIME and ELI5 [Medium](https://towardsdatascience.com/3-ways-to-interpretate-your-nlp-model-to-management-and-customer-5428bc07ce15) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation.ipynb)
 	- Interpreting your deep learning model by SHAP {SHapley Additive exPlanations} [Medium](https://towardsdatascience.com/interpreting-your-deep-learning-model-by-shap-e69be2b47893) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation_shap.ipynb)
-	- Anchor your Model Interpretation by Anchors {Anchors} [Medium]() [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation_anchor.ipynb)
+	- Anchor your Model Interpretation by Anchors {Anchors} [Medium](https://towardsdatascience.com/anchor-your-model-interpretation-by-anchors-aa4ed7104032) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation_anchor.ipynb)
 - Myth
 	- Using Deep Learning can resolve all problem? [Medium](https://medium.com/@makcedward/how-can-use-player-name-to-predict-world-cup-with-80-accuracy-262d076544c4) [Kaggle](https://www.kaggle.com/makcedward/world-cup-prediction-with-80-accuracy-in-dl-model)
