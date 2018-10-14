@@ -9,36 +9,36 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 	- Part 6: Sentence Tokenization [Medium](https://medium.com/@makcedward/nlp-pipeline-sentence-tokenization-part-6-86ed55b185e6) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-sentence_tokenization.ipynb)
 	- Part 7: Phrase Word Recognition
 - Infomration Retrieval
-	- Pattern-based Recognition: Pattern-based recognition did help in NLP [Medium](https://towardsdatascience.com/pattern-based-recognition-did-help-in-nlp-5c54b4e7a962) 
-	- Lexicon-based Recognition: Step out from regular expression for feature engineering [Medium](https://towardsdatascience.com/step-out-from-regular-expression-for-feature-engineering-134e594f542c)
-	- NER: How does Named Entity Recognition help on Information Extraction in NLP? [Medium](https://medium.com/@makcedward/named-entity-recognition-3fad3f53c91e) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-named_entity_recognition.ipynb)
+	- Pattern-based Recognition: [Medium](https://towardsdatascience.com/pattern-based-recognition-did-help-in-nlp-5c54b4e7a962) 
+	- Lexicon-based Recognition: [Medium](https://towardsdatascience.com/step-out-from-regular-expression-for-feature-engineering-134e594f542c)
+	- Pre-trained NER: [Medium](https://medium.com/@makcedward/named-entity-recognition-3fad3f53c91e) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-named_entity_recognition.ipynb)
 	- Custom Named Entity Recognition (NER)
 - Text Summarization
-	- Extractive Approach: Summarize whole paragraph to one sentence by Extractive Approach [Medium](https://medium.com/@makcedward/text-summarization-extractive-approach-567fe4b85c23) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-text_summarization_extractive.ipynb)
+	- Extractive Approach: [Medium](https://medium.com/@makcedward/text-summarization-extractive-approach-567fe4b85c23) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-text_summarization_extractive.ipynb)
 	- Abstractive Approach
 - Distance Measurement
-	- Euclidean Distance, Cosine Similarity and Jaccard Similarity: 3 basic Distance Measurement in Text Mining [Medium](https://towardsdatascience.com/3-basic-distance-measurement-in-text-mining-5852becff1d7) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-3_basic_distance_measurement_in_text_mining.ipynb)
-	- Word Moving Distance (WMD): Word Distance between Word Embeddings [Medium](https://towardsdatascience.com/word-distance-between-word-embeddings-cc3e9cf1d632) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_mover_distance.ipynb)
-	- Edit Distance: Measure distance between 2 words by simple calculation [Medium](https://towardsdatascience.com/measure-distance-between-2-words-by-simple-calculation-a97cf4993305) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-distance-edit_distance.ipynb)
+	- Euclidean Distance, Cosine Similarity and Jaccard Similarity: [Medium](https://towardsdatascience.com/3-basic-distance-measurement-in-text-mining-5852becff1d7) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-3_basic_distance_measurement_in_text_mining.ipynb)
+	- Word Moving Distance (WMD): [Medium](https://towardsdatascience.com/word-distance-between-word-embeddings-cc3e9cf1d632) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_mover_distance.ipynb)
+	- Edit Distance: [Medium](https://towardsdatascience.com/measure-distance-between-2-words-by-simple-calculation-a97cf4993305) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-distance-edit_distance.ipynb)
 - Vector Representation
 	- Traditional Method
-		- Bag-of-words (BoW): 3 basic approaches in Bag of Words which are better than Word Embeddings [Medium](https://towardsdatascience.com/3-basic-approaches-in-bag-of-words-which-are-better-than-word-embeddings-c2cbc7398016) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-bag_of_words.ipynb)
-		- LSA and LDA: 2 latent methods for dimension reduction and topic modeling [Medium](https://towardsdatascience.com/2-latent-methods-for-dimension-reduction-and-topic-modeling-20ff6d7d547) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-lsa_lda.ipynb)
+		- Bag-of-words (BoW): [Medium](https://towardsdatascience.com/3-basic-approaches-in-bag-of-words-which-are-better-than-word-embeddings-c2cbc7398016) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-bag_of_words.ipynb)
+		- Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA): [Medium](https://towardsdatascience.com/2-latent-methods-for-dimension-reduction-and-topic-modeling-20ff6d7d547) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-lsa_lda.ipynb)
 	- Character Level
-		- Character Embedding: Besides Word Embedding, why you need to know Character Embedding? [Medium](https://medium.com/@makcedward/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-character_embedding.ipynb)
+		- Character Embedding: [Medium](https://medium.com/@makcedward/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-character_embedding.ipynb)
 	- Word Level
 		- Negative Sampling and Hierarchical Softmax
-		- Word2Vec, GloVe, fastText: 3 silver bullets of word embeddings in NLP [Medium](https://towardsdatascience.com/3-silver-bullets-of-word-embedding-in-nlp-10fa8f50cc5a) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_embedding.ipynb)
+		- Word2Vec, GloVe, fastText: [Medium](https://towardsdatascience.com/3-silver-bullets-of-word-embedding-in-nlp-10fa8f50cc5a) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_embedding.ipynb)
 		- Contextualized Word Vectors (CoVe): 
 	- Sentence Level
-		- Skip-Thoughts: Transforming text to Sentence Embeddings via some thoughts [Medium](https://towardsdatascience.com/transforming-text-to-sentence-embeddings-layer-via-some-thoughts-b77bed60822c) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-skip_thoughts.ipynb)
-		- InferSent: [Medium]() [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-sentence-infersent.ipynb)
+		- Skip-Thoughts: [Medium](https://towardsdatascience.com/transforming-text-to-sentence-embeddings-layer-via-some-thoughts-b77bed60822c) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-skip_thoughts.ipynb)
+		- InferSent: [Medium](https://towardsdatascience.com/learning-sentence-embeddings-by-natural-language-inference-a50b4661a0b8) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-sentence-infersent.ipynb)
 	- Paragraph Level/ Document Level 
-		- lda2vec: Combing LDA and Word Embeddings for topic modeling [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4)
+		- lda2vec: [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4)
 		- doc2vec:
 - Model Interpretation
-	- ELI5, LIME and Skater: 3 ways to interpretate your NLP model to management and customer [Medium](https://towardsdatascience.com/3-ways-to-interpretate-your-nlp-model-to-management-and-customer-5428bc07ce15) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation.ipynb)
-	- SHapley Additive exPlanations (SHAP): Interpreting your deep learning model by SHAP [Medium](https://towardsdatascience.com/interpreting-your-deep-learning-model-by-shap-e69be2b47893) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation_shap.ipynb)
-	- Anchors: Anchor your Model Interpretation by Anchors [Medium](https://towardsdatascience.com/anchor-your-model-interpretation-by-anchors-aa4ed7104032) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation_anchor.ipynb)
+	- ELI5, LIME and Skater: [Medium](https://towardsdatascience.com/3-ways-to-interpretate-your-nlp-model-to-management-and-customer-5428bc07ce15) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation.ipynb)
+	- SHapley Additive exPlanations (SHAP): [Medium](https://towardsdatascience.com/interpreting-your-deep-learning-model-by-shap-e69be2b47893) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation_shap.ipynb)
+	- Anchors: [Medium](https://towardsdatascience.com/anchor-your-model-interpretation-by-anchors-aa4ed7104032) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation_anchor.ipynb)
 - Myth
 	- Using Deep Learning can resolve all problem? [Medium](https://medium.com/@makcedward/how-can-use-player-name-to-predict-world-cup-with-80-accuracy-262d076544c4) [Kaggle](https://www.kaggle.com/makcedward/world-cup-prediction-with-80-accuracy-in-dl-model)
