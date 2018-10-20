@@ -29,9 +29,9 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 	- Word Level
 		- Negative Sampling and Hierarchical Softmax
 		- Word2Vec, GloVe, fastText: [Medium](https://towardsdatascience.com/3-silver-bullets-of-word-embedding-in-nlp-10fa8f50cc5a) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_embedding.ipynb)
-		- Contextualized Word Vectors (CoVe): 
+		- Contextualized Word Vectors (CoVe): [Medium]() [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-word-cove.ipynb)
 	- Sentence Level
-		- Skip-Thoughts: [Medium](https://towardsdatascience.com/transforming-text-to-sentence-embeddings-layer-via-some-thoughts-b77bed60822c) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-skip_thoughts.ipynb)
+		- Skip-thoughts: [Medium](https://towardsdatascience.com/transforming-text-to-sentence-embeddings-layer-via-some-thoughts-b77bed60822c) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-skip_thoughts.ipynb)
 		- InferSent: [Medium](https://towardsdatascience.com/learning-sentence-embeddings-by-natural-language-inference-a50b4661a0b8) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-sentence-infersent.ipynb)
 	- Paragraph Level/ Document Level 
 		- lda2vec: [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4)
