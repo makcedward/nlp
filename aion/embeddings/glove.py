@@ -22,16 +22,17 @@ class GloVeEmbeddings(WordEmbeddings):
         if src is None:
             src = self.GLOVE_COMMON_CRAWL_MODEL_URL
             
-        # FIXME: support other model
-        dest_file = 'glove.42B.300d.txt'
+        dest_file = os.path.basename(src)
             
-        if not self.is_file_exist(dest_dir + dest_file):
-            file_path = self.download(
-                src=src, dest_dir=dest_dir, dest_file=None, uncompress=True, housekeep=False)
+        file_path = self.download(
+            src=src, dest_dir=dest_dir, dest_file=None, 
+            uncompress=True, housekeep=False, verbose=verbose)
             
         self.model_path = dest_dir + dest_file
+        
+        dest_file = dest_file.replace('.zip', '.txt')
             
-        if process:
+        if process and not self.is_file_exist(dest_dir + dest_file):
             with open(dest_dir + dest_file, encoding="utf8" ) as f:
                 lines = f.readlines()
 

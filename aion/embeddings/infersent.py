@@ -45,10 +45,9 @@ class InferSentEmbeddings(SentenceEmbeddings):
             src = InferSentEmbeddings.INFERSENT_GLOVE_MODEL_URL
             
         dest_file = os.path.basename(src)
-            
-        if not self.is_file_exist(dest_dir + dest_file):
-            file_path = self.download(
-                src=src, dest_dir=dest_dir, dest_file=dest_file, uncompress=False, housekeep=False)
+        file_path = self.download(
+            src=src, dest_dir=dest_dir, dest_file=dest_file, 
+            uncompress=False, housekeep=False, verbose=verbose)
             
         self.model = InferSent(self.get_params())
         self.model.load_state_dict(torch.load(dest_dir + dest_file))
