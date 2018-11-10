@@ -1,21 +1,17 @@
 # NLP - Tutorial
 Repository to show how NLP can tacke real problem. Including the source code, dataset, state-of-the art in NLP
 
-## Text Preprocessing
+## Text Processing
 | Section | Sub-Section | Description | Link |
 | --- | --- | --- | --- |
-| Word Tokenization | Tokenize word |  | [Medium](https://medium.com/@makcedward/nlp-pipeline-word-tokenization-part-1-4b2b547e6a3) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_tokenization.ipynb) |
+| Tokenization | Word Tokenization |  | [Medium](https://medium.com/@makcedward/nlp-pipeline-word-tokenization-part-1-4b2b547e6a3) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_tokenization.ipynb) |
+| Tokenization | Sentence Tokenization |  | [Medium](https://medium.com/@makcedward/nlp-pipeline-sentence-tokenization-part-6-86ed55b185e6) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-sentence_tokenization.ipynb) |
 | Part of Speech | | | [Medium](https://medium.com/@makcedward/nlp-pipeline-part-of-speech-part-2-b683c90e327d) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-part_of_speech.ipynb) |
 | Lemmatization | | | [Medium](https://medium.com/@makcedward/nlp-pipeline-lemmatization-part-3-4bfd7304957) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp_lemmatization.ipynb) |
 | Stemming | | | [Medium](https://medium.com/@makcedward/nlp-pipeline-stemming-part-4-b60a319fd52) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-stemming.ipynb) |
 | Stop Words | | | [Medium](https://medium.com/@makcedward/nlp-pipeline-stop-words-part-5-d6770df8a936) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-stop_words.ipynb) |
-| Sentence Tokenization | |  | [Medium](https://medium.com/@makcedward/nlp-pipeline-sentence-tokenization-part-6-86ed55b185e6) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-sentence_tokenization.ipynb) |
 | Phrase Word Recognition | |  |  |
-
-## Text Processing
-| Section | Sub-Section | Description | Link |
-| --- | --- | --- | --- |
-| Spell Checking | Lexicon-based |  |  |
+| Spell Checking | Lexicon-based | Peter Norvig algorithm | [Medium](https://towardsdatascience.com/correcting-your-spelling-error-with-4-operations-50bcfd519bb8) [Github](https://github.com/makcedward/nlp/blob/master/sample/util/nlp-util-spell_corrector.ipynb) |
 
 ## Infomration Retrieval 
 | Section | Sub-Section | Description | Link |
@@ -38,7 +34,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Edit Distance |  |  | [Medium](https://towardsdatascience.com/measure-distance-between-2-words-by-simple-calculation-a97cf4993305) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-distance-edit_distance.ipynb) |
 | Word Moving Distance (WMD) |  |  | [Medium](https://towardsdatascience.com/word-distance-between-word-embeddings-cc3e9cf1d632) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_mover_distance.ipynb) |
 
-## Vector Representation
+## Text Representation
 | Section | Sub-Section | Description | Link |
 | --- | --- | --- | --- |
 | Traditional Method | Bag-of-words (BoW) | Using all words as a feature  | [Medium](https://towardsdatascience.com/3-basic-approaches-in-bag-of-words-which-are-better-than-word-embeddings-c2cbc7398016) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-bag_of_words.ipynb) |
