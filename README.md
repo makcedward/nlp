@@ -49,6 +49,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | Embeddings from Language Models (ELMo) |  | [Medium](https://towardsdatascience.com/elmo-helps-to-further-improve-your-word-embeddings-c6ed2c9df95f) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-sentence-elmo.ipynb) |
 | Sentence Level | Skip-thoughts |  | [Medium](https://towardsdatascience.com/transforming-text-to-sentence-embeddings-layer-via-some-thoughts-b77bed60822c) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-skip_thoughts.ipynb) |
 |  | InferSent |  | [Medium](https://towardsdatascience.com/learning-sentence-embeddings-by-natural-language-inference-a50b4661a0b8) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-sentence-infersent.ipynb) |
+|  | Quick-Thoughts |  | [Medium](https://towardsdatascience.com/building-sentence-embeddings-via-quick-thoughts-945484cae273 |
 | Document Level | lda2vec |  | [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4) |
 |  | doc2vec | Using a unsupervised learning approach to leanr the word vectors for computing document vector | [Medium](https://towardsdatascience.com/understand-how-to-transfer-your-paragraph-to-vector-by-doc2vec-1e225ccf102) [Github](https://github.com/makcedward/nlp/blob/master/sample/embeddings/nlp-embeddings-document-doc2vec.ipynb) |
 
