@@ -15,6 +15,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Spell Checking | Lexicon-based | Symspell | [Medium](https://towardsdatascience.com/essential-text-correction-process-for-nlp-tasks-f731a025fcc3) [Github](https://github.com/makcedward/nlp/blob/master/sample/util/nlp-util-symspell.ipynb) |
 | Spell Checking | Machine Translation | Statistical Machine Translation | [Medium](https://towardsdatascience.com/correcting-text-input-by-machine-translation-and-classification-fa9d82087de1) |
 | Spell Checking | Machine Translation | Attention | [Medium](https://towardsdatascience.com/fix-your-text-thought-attention-before-nlp-tasks-7dc074b9744f) |
+| String Matching | Fuzzywuzzy | | [Medium]() [Github] (https://github.com/makcedward/nlp/blob/master/sample/preprocessing/nlp-preprocessing-string_matching-fuzzywuzzy.ipynb) |) |
 
 ## Infomration Retrieval 
 | Section | Sub-Section | Description | Link |
@@ -34,7 +35,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Section | Sub-Section | Description | Link |
 | --- | --- | --- | --- |
 | Euclidean Distance, Cosine Similarity and Jaccard Similarity |  |  | [Medium](https://towardsdatascience.com/3-basic-distance-measurement-in-text-mining-5852becff1d7) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-3_basic_distance_measurement_in_text_mining.ipynb) |
-| Edit Distance |  |  | [Medium](https://towardsdatascience.com/measure-distance-between-2-words-by-simple-calculation-a97cf4993305) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-distance-edit_distance.ipynb) |
+| Edit Distance | Levenshtein Distance |  | [Medium](https://towardsdatascience.com/measure-distance-between-2-words-by-simple-calculation-a97cf4993305) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-distance-edit_distance.ipynb) |
 | Word Moving Distance (WMD) |  |  | [Medium](https://towardsdatascience.com/word-distance-between-word-embeddings-cc3e9cf1d632) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_mover_distance.ipynb) |
 
 ## Text Representation
@@ -49,7 +50,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | Embeddings from Language Models (ELMo) |  | [Medium](https://towardsdatascience.com/elmo-helps-to-further-improve-your-word-embeddings-c6ed2c9df95f) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-sentence-elmo.ipynb) |
 | Sentence Level | Skip-thoughts |  | [Medium](https://towardsdatascience.com/transforming-text-to-sentence-embeddings-layer-via-some-thoughts-b77bed60822c) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-skip_thoughts.ipynb) |
 |  | InferSent |  | [Medium](https://towardsdatascience.com/learning-sentence-embeddings-by-natural-language-inference-a50b4661a0b8) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-sentence-infersent.ipynb) |
-|  | Quick-Thoughts |  | [Medium](https://towardsdatascience.com/building-sentence-embeddings-via-quick-thoughts-945484cae273 |
+|  | Quick-Thoughts |  | [Medium](https://towardsdatascience.com/building-sentence-embeddings-via-quick-thoughts-945484cae273) |
 | Document Level | lda2vec |  | [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4) |
 |  | doc2vec | Using a unsupervised learning approach to leanr the word vectors for computing document vector | [Medium](https://towardsdatascience.com/understand-how-to-transfer-your-paragraph-to-vector-by-doc2vec-1e225ccf102) [Github](https://github.com/makcedward/nlp/blob/master/sample/embeddings/nlp-embeddings-document-doc2vec.ipynb) |
 
