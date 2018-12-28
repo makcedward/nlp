@@ -15,7 +15,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Spell Checking | Lexicon-based | Symspell | [Medium](https://towardsdatascience.com/essential-text-correction-process-for-nlp-tasks-f731a025fcc3) [Github](https://github.com/makcedward/nlp/blob/master/sample/util/nlp-util-symspell.ipynb) |
 | Spell Checking | Machine Translation | Statistical Machine Translation | [Medium](https://towardsdatascience.com/correcting-text-input-by-machine-translation-and-classification-fa9d82087de1) |
 | Spell Checking | Machine Translation | Attention | [Medium](https://towardsdatascience.com/fix-your-text-thought-attention-before-nlp-tasks-7dc074b9744f) |
-| String Matching | Fuzzywuzzy | | [Medium]() [Github] (https://github.com/makcedward/nlp/blob/master/sample/preprocessing/nlp-preprocessing-string_matching-fuzzywuzzy.ipynb) |) |
+| String Matching | Fuzzywuzzy | | [Medium](https://towardsdatascience.com/how-fuzzy-matching-improve-your-nlp-model-bc617385ad6b) [Github](https://github.com/makcedward/nlp/blob/master/sample/preprocessing/nlp-preprocessing-string_matching-fuzzywuzzy.ipynb) |
 
 ## Infomration Retrieval 
 | Section | Sub-Section | Description | Link |
