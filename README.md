@@ -40,7 +40,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 
 ## Text Representation
 | Section | Sub-Section | Description | Story | Paper & Code |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Traditional Method | Bag-of-words (BoW) | Using all words as a feature  | [Medium](https://towardsdatascience.com/3-basic-approaches-in-bag-of-words-which-are-better-than-word-embeddings-c2cbc7398016) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-bag_of_words.ipynb) |  |
 |  | Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA) |  | [Medium](https://towardsdatascience.com/2-latent-methods-for-dimension-reduction-and-topic-modeling-20ff6d7d547) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-lsa_lda.ipynb) |  |
 | Character Level | Character Embedding | Using all character (word, number, special character) for computing word vector| [Medium](https://medium.com/@makcedward/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-character_embedding.ipynb) |  |
