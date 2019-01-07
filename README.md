@@ -12,9 +12,9 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Stop Words | | | [Medium](https://medium.com/@makcedward/nlp-pipeline-stop-words-part-5-d6770df8a936) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-stop_words.ipynb) |
 | Phrase Word Recognition | |  |  |
 | Spell Checking | Lexicon-based | Peter Norvig algorithm | [Medium](https://towardsdatascience.com/correcting-your-spelling-error-with-4-operations-50bcfd519bb8) [Github](https://github.com/makcedward/nlp/blob/master/sample/util/nlp-util-spell_corrector.ipynb) |
-| Spell Checking | Lexicon-based | Symspell | [Medium](https://towardsdatascience.com/essential-text-correction-process-for-nlp-tasks-f731a025fcc3) [Github](https://github.com/makcedward/nlp/blob/master/sample/util/nlp-util-symspell.ipynb) |
-| Spell Checking | Machine Translation | Statistical Machine Translation | [Medium](https://towardsdatascience.com/correcting-text-input-by-machine-translation-and-classification-fa9d82087de1) |
-| Spell Checking | Machine Translation | Attention | [Medium](https://towardsdatascience.com/fix-your-text-thought-attention-before-nlp-tasks-7dc074b9744f) |
+| | Lexicon-based | Symspell | [Medium](https://towardsdatascience.com/essential-text-correction-process-for-nlp-tasks-f731a025fcc3) [Github](https://github.com/makcedward/nlp/blob/master/sample/util/nlp-util-symspell.ipynb) |
+| | Machine Translation | Statistical Machine Translation | [Medium](https://towardsdatascience.com/correcting-text-input-by-machine-translation-and-classification-fa9d82087de1) |
+| | Machine Translation | Attention | [Medium](https://towardsdatascience.com/fix-your-text-thought-attention-before-nlp-tasks-7dc074b9744f) |
 | String Matching | Fuzzywuzzy | | [Medium](https://towardsdatascience.com/how-fuzzy-matching-improve-your-nlp-model-bc617385ad6b) [Github](https://github.com/makcedward/nlp/blob/master/sample/preprocessing/nlp-preprocessing-string_matching-fuzzywuzzy.ipynb) |
 
 ## Infomration Retrieval 
@@ -39,7 +39,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Word Moving Distance (WMD) |  |  | [Medium](https://towardsdatascience.com/word-distance-between-word-embeddings-cc3e9cf1d632) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_mover_distance.ipynb) |
 
 ## Text Representation
-| Section | Sub-Section | Description | Link |
+| Section | Sub-Section | Description | Story | Paper & Code |
 | --- | --- | --- | --- |
 | Traditional Method | Bag-of-words (BoW) | Using all words as a feature  | [Medium](https://towardsdatascience.com/3-basic-approaches-in-bag-of-words-which-are-better-than-word-embeddings-c2cbc7398016) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-bag_of_words.ipynb) |
 |  | Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA) |  | [Medium](https://towardsdatascience.com/2-latent-methods-for-dimension-reduction-and-topic-modeling-20ff6d7d547) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-lsa_lda.ipynb) |
@@ -48,6 +48,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | Word2Vec, GloVe, fastText |  | [Medium](https://towardsdatascience.com/3-silver-bullets-of-word-embedding-in-nlp-10fa8f50cc5a) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_embedding.ipynb) |
 |  | Contextualized Word Vectors (CoVe) |  | [Medium](https://towardsdatascience.com/replacing-your-word-embeddings-by-contextualized-word-vectors-9508877ad65d) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-word-cove.ipynb) |
 |  | Embeddings from Language Models (ELMo) |  | [Medium](https://towardsdatascience.com/elmo-helps-to-further-improve-your-word-embeddings-c6ed2c9df95f) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-sentence-elmo.ipynb) |
+|  | Bidirectional Encoder Representations from Transformers (BERT) |  | [Medium](https://towardsdatascience.com/how-bert-leverage-attention-mechanism-and-transformer-to-learn-word-contextual-relations-5bbee1b6dbdb) | [Paper](https://arxiv.org/abs/1810.04805) [Code](https://github.com/google-research/bert)| 
 | Sentence Level | Skip-thoughts |  | [Medium](https://towardsdatascience.com/transforming-text-to-sentence-embeddings-layer-via-some-thoughts-b77bed60822c) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-skip_thoughts.ipynb) |
 |  | InferSent |  | [Medium](https://towardsdatascience.com/learning-sentence-embeddings-by-natural-language-inference-a50b4661a0b8) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-sentence-infersent.ipynb) |
 |  | Quick-Thoughts |  | [Medium](https://towardsdatascience.com/building-sentence-embeddings-via-quick-thoughts-945484cae273) |
