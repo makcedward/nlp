@@ -28,7 +28,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 ## Optical Character Recognition (OCR)
 | Section | Sub-Section | Research Lab | Story | Paper & Code |
 | --- | --- | --- | --- | --- |
-| Google Cloud Vision API |  | Google | [Medium]() | [Paper](https://das2018.cvl.tuwien.ac.at/media/filer_public/85/fd/85fd4698-040f-45f4-8fcc-56d66533b82d/das2018_short_papers.pdf) |
+| Google Cloud Vision API |  | Google | [Medium](https://towardsdatascience.com/secret-of-google-web-based-ocr-service-fe30eecedd01) | [Paper](https://das2018.cvl.tuwien.ac.at/media/filer_public/85/fd/85fd4698-040f-45f4-8fcc-56d66533b82d/das2018_short_papers.pdf) |
 
 
 ## Text Summarization
@@ -55,7 +55,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | Contextualized Word Vectors (CoVe) | Salesforce | [Medium](https://towardsdatascience.com/replacing-your-word-embeddings-by-contextualized-word-vectors-9508877ad65d) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-word-cove.ipynb) | [Paper](http://papers.nips.cc/paper/7209-learned-in-translation-contextualized-word-vectors.pdf) [Code](https://github.com/salesforce/cove) |
 |  | Embeddings from Language Models (ELMo) | AI2 | [Medium](https://towardsdatascience.com/elmo-helps-to-further-improve-your-word-embeddings-c6ed2c9df95f) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-sentence-elmo.ipynb) | [Paper](https://arxiv.org/pdf/1802.05365.pdf) [Code](https://github.com/allenai/allennlp/) |
 |  | Bidirectional Encoder Representations from Transformers (BERT) | Google | [Medium](https://towardsdatascience.com/how-bert-leverage-attention-mechanism-and-transformer-to-learn-word-contextual-relations-5bbee1b6dbdb) | [Paper](https://arxiv.org/abs/1810.04805) [Code](https://github.com/google-research/bert)| 
-|  | Finetune Transformer LM | Open AI | [Medium]() | [Paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) [Code](https://github.com/openai/finetune-transformer-lm)| 
+|  | Finetune Transformer LM | Open AI | [Medium](https://towardsdatascience.com/combining-supervised-learning-and-unsupervised-learning-to-improve-word-vectors-d4dea84ec36b) | [Paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) [Code](https://github.com/openai/finetune-transformer-lm)| 
 | Sentence Level | Skip-thoughts |  | [Medium](https://towardsdatascience.com/transforming-text-to-sentence-embeddings-layer-via-some-thoughts-b77bed60822c) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-skip_thoughts.ipynb) | [Paper](https://arxiv.org/abs/1506.06726) [Code](https://github.com/ryankiros/skip-thoughts) |
 |  | InferSent |  | [Medium](https://towardsdatascience.com/learning-sentence-embeddings-by-natural-language-inference-a50b4661a0b8) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-sentence-infersent.ipynb) | [Paper](https://arxiv.org/abs/1705.02364) [Code](https://github.com/facebookresearch/InferSent) |
 |  | Quick-Thoughts | Google | [Medium](https://towardsdatascience.com/building-sentence-embeddings-via-quick-thoughts-945484cae273) | [Paper](https://arxiv.org/pdf/1803.02893.pdf) [Code](https://github.com/lajanugen/S2V) |
