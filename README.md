@@ -38,11 +38,12 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Abstractive Approach |  |  |  |
 
 ## Distance Measurement
-| Section | Sub-Section | Description | Link |
-| --- | --- | --- | --- |
-| Euclidean Distance, Cosine Similarity and Jaccard Similarity |  |  | [Medium](https://towardsdatascience.com/3-basic-distance-measurement-in-text-mining-5852becff1d7) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-3_basic_distance_measurement_in_text_mining.ipynb) |
-| Edit Distance | Levenshtein Distance |  | [Medium](https://towardsdatascience.com/measure-distance-between-2-words-by-simple-calculation-a97cf4993305) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-distance-edit_distance.ipynb) |
+| Section | Sub-Section | Description | Link | Paper |
+| --- | --- | --- | --- | --- |
+| Euclidean Distance, Cosine Similarity and Jaccard Similarity |  |  | [Medium](https://towardsdatascience.com/3-basic-distance-measurement-in-text-mining-5852becff1d7) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-3_basic_distance_measurement_in_text_mining.ipynb) |  |
+| Edit Distance | Levenshtein Distance |  | [Medium](https://towardsdatascience.com/measure-distance-between-2-words-by-simple-calculation-a97cf4993305) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-distance-edit_distance.ipynb) |  |
 | Word Moving Distance (WMD) |  |  | [Medium](https://towardsdatascience.com/word-distance-between-word-embeddings-cc3e9cf1d632) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_mover_distance.ipynb) |
+| Manhattan LSTM |  |  | [Medium](https://towardsdatascience.com/text-matching-with-deep-learning-e6aa05333399) | [Paper](http://www.mit.edu/~jonasm/info/MuellerThyagarajan_AAAI16.pdf) |
 
 ## Text Representation
 | Section | Sub-Section | Research Lab | Story | Paper & Code |
