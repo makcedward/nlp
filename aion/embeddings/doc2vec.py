@@ -1,6 +1,5 @@
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 
-from ..util.word import WordConverter
 from .document_embeddings import DocumentEmbeddings
 
 
