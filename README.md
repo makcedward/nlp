@@ -30,6 +30,10 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | --- | --- | --- | --- | --- |
 | Google Cloud Vision API |  | Google | [Medium](https://towardsdatascience.com/secret-of-google-web-based-ocr-service-fe30eecedd01) | [Paper](https://das2018.cvl.tuwien.ac.at/media/filer_public/85/fd/85fd4698-040f-45f4-8fcc-56d66533b82d/das2018_short_papers.pdf) |
 
+## Language Model (LM)
+| Section | Sub-Section | Research Lab | Story | Paper, Year & Code |
+| --- | --- | --- | --- | --- |
+|  | Generative Pre-Training 2 (GPT-2) | OpenAI | [Medium](https://towardsdatascience.com/too-powerful-nlp-model-generative-pre-training-2-4cc6afb6655) | [Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)(2019) [Code](https://github.com/openai/gpt-2)| 
 
 ## Text Summarization
 | Section | Sub-Section | Description | Link |
@@ -56,7 +60,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | Contextualized Word Vectors (CoVe) | Salesforce | [Medium](https://towardsdatascience.com/replacing-your-word-embeddings-by-contextualized-word-vectors-9508877ad65d) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-word-cove.ipynb) | [Paper](http://papers.nips.cc/paper/7209-learned-in-translation-contextualized-word-vectors.pdf) [Code](https://github.com/salesforce/cove) |
 |  | Embeddings from Language Models (ELMo) | AI2 | [Medium](https://towardsdatascience.com/elmo-helps-to-further-improve-your-word-embeddings-c6ed2c9df95f) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-embeddings-sentence-elmo.ipynb) | [Paper](https://arxiv.org/pdf/1802.05365.pdf) [Code](https://github.com/allenai/allennlp/) |
 |  | Bidirectional Encoder Representations from Transformers (BERT) | Google | [Medium](https://towardsdatascience.com/how-bert-leverage-attention-mechanism-and-transformer-to-learn-word-contextual-relations-5bbee1b6dbdb) | [Paper](https://arxiv.org/pdf/1810.04805) [Code](https://github.com/google-research/bert)| 
-|  | Generative Pre-Training (GPT) | Open AI | [Medium](https://towardsdatascience.com/combining-supervised-learning-and-unsupervised-learning-to-improve-word-vectors-d4dea84ec36b) | [Paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) [Code](https://github.com/openai/finetune-transformer-lm)| 
+|  | Generative Pre-Training (GPT) | OpenAI | [Medium](https://towardsdatascience.com/combining-supervised-learning-and-unsupervised-learning-to-improve-word-vectors-d4dea84ec36b) | [Paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) [Code](https://github.com/openai/finetune-transformer-lm)| 
 |  | Contextual String Embeddings | Zalando Research | [Medium](https://towardsdatascience.com/contextual-embeddings-for-nlp-sequence-labeling-9a92ba5a6cf0) | [Paper](http://aclweb.org/anthology/C18-1139) [Code](https://github.com/zalandoresearch/flair)| 
 |  | Self-Governing Neural Networks (SGNN) | Google | [Medium](https://towardsdatascience.com/embeddings-free-deep-learning-nlp-model-ce067c7a7c93) | [Paper](https://aclweb.org/anthology/D18-1105) | 
 | Sentence Level | Skip-thoughts |  | [Medium](https://towardsdatascience.com/transforming-text-to-sentence-embeddings-layer-via-some-thoughts-b77bed60822c) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-skip_thoughts.ipynb) | [Paper](https://arxiv.org/abs/1506.06726) [Code](https://github.com/ryankiros/skip-thoughts) |
