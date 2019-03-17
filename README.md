@@ -28,7 +28,8 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 ## Optical Character Recognition (OCR)
 | Section | Sub-Section | Research Lab | Story | Paper & Code |
 | --- | --- | --- | --- | --- |
-| Google Cloud Vision API |  | Google | [Medium](https://towardsdatascience.com/secret-of-google-web-based-ocr-service-fe30eecedd01) | [Paper](https://das2018.cvl.tuwien.ac.at/media/filer_public/85/fd/85fd4698-040f-45f4-8fcc-56d66533b82d/das2018_short_papers.pdf) |
+| Printed Text | Google Cloud Vision API | Google | [Medium](https://towardsdatascience.com/secret-of-google-web-based-ocr-service-fe30eecedd01) | [Paper](https://das2018.cvl.tuwien.ac.at/media/filer_public/85/fd/85fd4698-040f-45f4-8fcc-56d66533b82d/das2018_short_papers.pdf) |
+| Handwriting | LSTM | Google | [Medium](https://towardsdatascience.com/lstm-based-handwriting-recognition-by-google-eb99663ca6de) | [Paper](https://arxiv.org/pdf/1902.10525.pdf) | 
 
 ## Text Summarization
 | Section | Sub-Section | Description | Link |
