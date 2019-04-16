@@ -1,6 +1,11 @@
 # NLP - Tutorial
 Repository to show how NLP can tacke real problem. Including the source code, dataset, state-of-the art in NLP
 
+## Text Augmentation
+| Section | Sub-Section | Research Lab | Story | Paper & Code |
+| --- | --- | --- | --- | --- |
+| Augmentation | Data Augmentation in NLP |  | [Medium](https://towardsdatascience.com/data-augmentation-in-nlp-2801a34dfc28) |  |
+
 ## Text Processing
 | Section | Sub-Section | Description | Link |
 | --- | --- | --- | --- |
