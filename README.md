@@ -5,6 +5,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Section | Sub-Section | Research Lab | Story | Paper & Code |
 | --- | --- | --- | --- | --- |
 | Augmentation | Data Augmentation in NLP |  | [Medium](https://towardsdatascience.com/data-augmentation-in-nlp-2801a34dfc28) |  |
+| Augmentation | Data Augmentation library for text |  | [Medium](https://towardsdatascience.com/data-augmentation-library-for-text-9661736b13ff) |  |
 
 ## Text Processing
 | Section | Sub-Section | Description | Link |
