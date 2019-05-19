@@ -11,6 +11,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 ## Text Processing
 | Section | Sub-Section | Description | Link |
 | --- | --- | --- | --- |
+| Tokenization | Subword Tokenization |  | [Medium](https://towardsdatascience.com/how-subword-helps-on-your-nlp-model-83dd1b836f46) |
 | Tokenization | Word Tokenization |  | [Medium](https://medium.com/@makcedward/nlp-pipeline-word-tokenization-part-1-4b2b547e6a3) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-word_tokenization.ipynb) |
 | Tokenization | Sentence Tokenization |  | [Medium](https://medium.com/@makcedward/nlp-pipeline-sentence-tokenization-part-6-86ed55b185e6) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-sentence_tokenization.ipynb) |
 | Part of Speech | | | [Medium](https://medium.com/@makcedward/nlp-pipeline-part-of-speech-part-2-b683c90e327d) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-part_of_speech.ipynb) |
