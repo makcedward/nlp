@@ -7,6 +7,8 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Augmentation | Data Augmentation in NLP |  | [Medium](https://towardsdatascience.com/data-augmentation-in-nlp-2801a34dfc28) |  |
 | Augmentation | Data Augmentation library for text |  | [Medium](https://towardsdatascience.com/data-augmentation-library-for-text-9661736b13ff) |  |
 | Augmentation | Data Augmentation library for Speech Recognition |  | [Medium](https://towardsdatascience.com/data-augmentation-for-speech-recognition-e7c607482e78) |  |
+| Augmentation | Data Augmentation library for Audio |  | [Medium](https://towardsdatascience.com/data-augmentation-for-audio-76912b01fdf6) |  |
+
 
 ## Text Processing
 | Section | Sub-Section | Description | Link |
