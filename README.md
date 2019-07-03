@@ -5,7 +5,8 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Section | Sub-Section | Research Lab | Story | Paper & Code |
 | --- | --- | --- | --- | --- |
 | Augmentation | Data Augmentation in NLP |  | [Medium](https://towardsdatascience.com/data-augmentation-in-nlp-2801a34dfc28) |  |
-| Augmentation | Data Augmentation library for text |  | [Medium](https://towardsdatascience.com/data-augmentation-library-for-text-9661736b13ff) |  |
+| Augmentation | Data Augmentation library for Text |  | [Medium](https://towardsdatascience.com/data-augmentation-library-for-text-9661736b13ff) |  |
+| Augmentation | Does your NLP model able to prevent adversarial attack? |  | [Medium](https://hackernoon.com/does-your-nlp-model-able-to-prevent-adversarial-attack-45b5ab75129c) |  |
 | Augmentation | Data Augmentation library for Speech Recognition |  | [Medium](https://towardsdatascience.com/data-augmentation-for-speech-recognition-e7c607482e78) |  |
 | Augmentation | Data Augmentation library for Audio |  | [Medium](https://towardsdatascience.com/data-augmentation-for-audio-76912b01fdf6) |  |
 
@@ -46,6 +47,11 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | --- | --- | --- | --- |
 | Extractive Approach |  |  | [Medium](https://medium.com/@makcedward/text-summarization-extractive-approach-567fe4b85c23) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-text_summarization_extractive.ipynb) |
 | Abstractive Approach |  |  |  |
+
+## Emotion Recognition
+| Section | Sub-Section | Description | Link |
+| --- | --- | --- | --- |
+| Audio, Text, Visual | 3 Multimodals for Emotion Recognition |  | [Medium](https://becominghuman.ai/multimodal-for-emotion-recognition-21df267fddc4) |
 
 ## Distance Measurement
 | Section | Sub-Section | Description | Link | Paper |
