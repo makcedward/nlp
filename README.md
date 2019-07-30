@@ -53,6 +53,11 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | --- | --- | --- | --- |
 | Audio, Text, Visual | 3 Multimodals for Emotion Recognition |  | [Medium](https://becominghuman.ai/multimodal-for-emotion-recognition-21df267fddc4) |
 
+## Voice
+| Section | Sub-Section | Description | Link |
+| --- | --- | --- | --- |
+| Speech-to-text | | Introduction to Speeh-to-text | (Medium)(https://becominghuman.ai/how-does-your-assistant-device-work-based-on-text-to-speech-technology-5f31e56eae7e)
+
 ## Distance Measurement
 | Section | Sub-Section | Description | Link | Paper |
 | --- | --- | --- | --- | --- |
@@ -85,6 +90,8 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | Bidirectional Encoder Representations from Transformers (BERT) | Google | [Medium](https://towardsdatascience.com/how-bert-leverage-attention-mechanism-and-transformer-to-learn-word-contextual-relations-5bbee1b6dbdb) | [Paper](https://arxiv.org/pdf/1810.04805) [Code](https://github.com/google-research/bert)| 
 |  | BERT in Science Domain |  | [Medium](https://towardsdatascience.com/how-to-apply-bert-in-scientific-domain-2d9db0480bd9) | [SciBERT Paper](https://arxiv.org/pdf/1903.10676.pdf) [BioBERT Paper](https://arxiv.org/pdf/1901.08746.pdf)| 
 |  | BERT in Clinical Domain |  | [Medium](https://towardsdatascience.com/how-do-they-apply-bert-in-the-clinical-domain-49113a51be50) | [Clincical BERT Embeddings Paper](https://arxiv.org/pdf/1904.03323.pdf) [ClinicalBert Paper](https://arxiv.org/pdf/1904.05342.pdf)| 
+|  | Unified Language Model for NLP and NLU |  | [Medium](https://medium.com/towards-artificial-intelligence/unified-language-model-pre-training-for-natural-language-understanding-and-generation-f87dc226aa2) | [Paper](https://arxiv.org/pdf/1905.03197.pdf)| 
+|  | Cross-lingual Language Model |  | [Medium](https://medium.com/towards-artificial-intelligence/cross-lingual-language-model-56a65dba9358) | [Paper](https://arxiv.org/pdf/1901.07291.pdf)| 
 | Document Level | lda2vec |  | [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4) | [Paper](https://arxiv.org/pdf/1605.02019.pdf) |
 |  | doc2vec | Google | [Medium](https://towardsdatascience.com/understand-how-to-transfer-your-paragraph-to-vector-by-doc2vec-1e225ccf102) [Github](https://github.com/makcedward/nlp/blob/master/sample/embeddings/nlp-embeddings-document-doc2vec.ipynb) | [Paper](https://arxiv.org/pdf/1405.4053.pdf) |
 
