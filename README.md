@@ -56,7 +56,8 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 ## Voice
 | Section | Sub-Section | Description | Link |
 | --- | --- | --- | --- |
-| Speech-to-text | | Introduction to Speeh-to-text | (Medium)(https://becominghuman.ai/how-does-your-assistant-device-work-based-on-text-to-speech-technology-5f31e56eae7e)
+| Feature Representation | Unsupervised Learning| Introduction to Audio Feature Learning | [Medium](https://medium.com/hackernoon/how-can-you-apply-unsupervised-learning-on-audio-data-be95153c5860) [Paper 1](https://ai.stanford.edu/~ang/papers/nips09-AudioConvolutionalDBN.pdf) [Paper 2](https://arxiv.org/pdf/1607.03681.pdf) [Paper 3](https://arxiv.org/pdf/1712.03835.pdf)
+| Speech-to-text | | Introduction to Speeh-to-text | [Medium](https://becominghuman.ai/how-does-your-assistant-device-work-based-on-text-to-speech-technology-5f31e56eae7e)
 
 ## Distance Measurement
 | Section | Sub-Section | Description | Link | Paper |
