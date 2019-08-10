@@ -9,6 +9,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Augmentation | Does your NLP model able to prevent adversarial attack? |  | [Medium](https://hackernoon.com/does-your-nlp-model-able-to-prevent-adversarial-attack-45b5ab75129c) |  |
 | Augmentation | Data Augmentation library for Speech Recognition |  | [Medium](https://towardsdatascience.com/data-augmentation-for-speech-recognition-e7c607482e78) |  |
 | Augmentation | Data Augmentation library for Audio |  | [Medium](https://towardsdatascience.com/data-augmentation-for-audio-76912b01fdf6) |  |
+| Augmentation | Unsupervied Data Augmentation | | [Medium](https://medium.com/towards-artificial-intelligence/unsupervised-data-augmentation-6760456db143)
 
 
 ## Text Processing
