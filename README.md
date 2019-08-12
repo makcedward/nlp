@@ -6,7 +6,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | --- | --- | --- | --- | --- |
 | Augmentation | Data Augmentation in NLP |  | [Medium](https://towardsdatascience.com/data-augmentation-in-nlp-2801a34dfc28) |  |
 | Augmentation | Data Augmentation library for Text |  | [Medium](https://towardsdatascience.com/data-augmentation-library-for-text-9661736b13ff) |  |
-| Augmentation | Does your NLP model able to prevent adversarial attack? |  | [Medium](https://hackernoon.com/does-your-nlp-model-able-to-prevent-adversarial-attack-45b5ab75129c) |  |
+| Augmentation | Does your NLP model able to prevent adversarial attack? |  | [Medium](https://medium.com/hackernoon/does-your-nlp-model-able-to-prevent-adversarial-attack-45b5ab75129c) |  |
 | Augmentation | Data Augmentation library for Speech Recognition |  | [Medium](https://towardsdatascience.com/data-augmentation-for-speech-recognition-e7c607482e78) |  |
 | Augmentation | Data Augmentation library for Audio |  | [Medium](https://towardsdatascience.com/data-augmentation-for-audio-76912b01fdf6) |  |
 | Augmentation | Unsupervied Data Augmentation | | [Medium](https://medium.com/towards-artificial-intelligence/unsupervised-data-augmentation-6760456db143)
@@ -94,6 +94,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | BERT in Clinical Domain |  | [Medium](https://towardsdatascience.com/how-do-they-apply-bert-in-the-clinical-domain-49113a51be50) | [Clincical BERT Embeddings Paper](https://arxiv.org/pdf/1904.03323.pdf) [ClinicalBert Paper](https://arxiv.org/pdf/1904.05342.pdf)| 
 |  | Unified Language Model for NLP and NLU |  | [Medium](https://medium.com/towards-artificial-intelligence/unified-language-model-pre-training-for-natural-language-understanding-and-generation-f87dc226aa2) | [Paper](https://arxiv.org/pdf/1905.03197.pdf)| 
 |  | Cross-lingual Language Model |  | [Medium](https://medium.com/towards-artificial-intelligence/cross-lingual-language-model-56a65dba9358) | [Paper](https://arxiv.org/pdf/1901.07291.pdf)| 
+|  | Transformer-XL |  | [Medium](hhttps://medium.com/towards-artificial-intelligence/address-limitation-of-rnn-in-nlp-problems-by-using-transformer-xl-866d7ce1c8f4) | [Paper](https://arxiv.org/pdf/1901.02860.pdf)| 
 | Document Level | lda2vec |  | [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4) | [Paper](https://arxiv.org/pdf/1605.02019.pdf) |
 |  | doc2vec | Google | [Medium](https://towardsdatascience.com/understand-how-to-transfer-your-paragraph-to-vector-by-doc2vec-1e225ccf102) [Github](https://github.com/makcedward/nlp/blob/master/sample/embeddings/nlp-embeddings-document-doc2vec.ipynb) | [Paper](https://arxiv.org/pdf/1405.4053.pdf) |
 
