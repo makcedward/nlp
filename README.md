@@ -94,7 +94,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | BERT in Clinical Domain |  | [Medium](https://towardsdatascience.com/how-do-they-apply-bert-in-the-clinical-domain-49113a51be50) | [Clincical BERT Embeddings Paper](https://arxiv.org/pdf/1904.03323.pdf) [ClinicalBert Paper](https://arxiv.org/pdf/1904.05342.pdf)| 
 |  | Unified Language Model for NLP and NLU |  | [Medium](https://medium.com/towards-artificial-intelligence/unified-language-model-pre-training-for-natural-language-understanding-and-generation-f87dc226aa2) | [Paper](https://arxiv.org/pdf/1905.03197.pdf)| 
 |  | Cross-lingual Language Model |  | [Medium](https://medium.com/towards-artificial-intelligence/cross-lingual-language-model-56a65dba9358) | [Paper](https://arxiv.org/pdf/1901.07291.pdf)| 
-|  | Transformer-XL |  | [Medium](hhttps://medium.com/towards-artificial-intelligence/address-limitation-of-rnn-in-nlp-problems-by-using-transformer-xl-866d7ce1c8f4) | [Paper](https://arxiv.org/pdf/1901.02860.pdf)| 
+|  | Transformer-XL |  | [Medium](https://medium.com/towards-artificial-intelligence/address-limitation-of-rnn-in-nlp-problems-by-using-transformer-xl-866d7ce1c8f4) | [Paper](https://arxiv.org/pdf/1901.02860.pdf)| 
 | Document Level | lda2vec |  | [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4) | [Paper](https://arxiv.org/pdf/1605.02019.pdf) |
 |  | doc2vec | Google | [Medium](https://towardsdatascience.com/understand-how-to-transfer-your-paragraph-to-vector-by-doc2vec-1e225ccf102) [Github](https://github.com/makcedward/nlp/blob/master/sample/embeddings/nlp-embeddings-document-doc2vec.ipynb) | [Paper](https://arxiv.org/pdf/1405.4053.pdf) |
 
