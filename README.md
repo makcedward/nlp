@@ -76,6 +76,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Section | Sub-Section | Description | Research Lab | Story | Paper & Code |
 | --- | --- | --- | --- | --- | --- |
 | Feature Representation | Unsupervised Learning| Introduction to Audio Feature Learning | |  [Medium](https://medium.com/hackernoon/how-can-you-apply-unsupervised-learning-on-audio-data-be95153c5860) | [Paper 1](https://ai.stanford.edu/~ang/papers/nips09-AudioConvolutionalDBN.pdf) [Paper 2](https://arxiv.org/pdf/1607.03681.pdf) [Paper 3](https://arxiv.org/pdf/1712.03835.pdf)
+| Feature Representation | Unsupervised Learning| Speech2Vec and Sentence Level Embeddings | |  [Medium](https://medium.com/towards-artificial-intelligence/two-ways-to-learn-audio-embeddings-9dfcaab10ba6) | [Paper 1](https://arxiv.org/pdf/1803.08976.pdf) [Paper 2](https://arxiv.org/pdf/1902.07817.pdf)
 | Speech-to-text | | Introduction to Speeh-to-text | |  [Medium](https://becominghuman.ai/how-does-your-assistant-device-work-based-on-text-to-speech-technology-5f31e56eae7e) |
 
 ## Text Distance Measurement
