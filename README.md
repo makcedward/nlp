@@ -69,7 +69,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Optical Character Recognition (OCR) | Printed Text | Google Cloud Vision API | Google | [Medium](https://towardsdatascience.com/secret-of-google-web-based-ocr-service-fe30eecedd01) | [Paper](https://das2018.cvl.tuwien.ac.at/media/filer_public/85/fd/85fd4698-040f-45f4-8fcc-56d66533b82d/das2018_short_papers.pdf) |
 | | Handwriting | LSTM | Google | [Medium](https://towardsdatascience.com/lstm-based-handwriting-recognition-by-google-eb99663ca6de) | [Paper](https://arxiv.org/pdf/1902.10525.pdf) | 
 | Text Summarization | Extractive Approach | | | [Medium](https://medium.com/@makcedward/text-summarization-extractive-approach-567fe4b85c23) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-text_summarization_extractive.ipynb) | |
-| | Abstractive Approach |  |  |  | 
+| | Abstractive Approach |  |  | [Medium](https://medium.com/dataseries/summarize-document-by-combing-extractive-and-abstractive-steps-40295310526) | 
 | Emotion Recognition | Audio, Text, Visual | 3 Multimodals for Emotion Recognition |  | [Medium](https://becominghuman.ai/multimodal-for-emotion-recognition-21df267fddc4) |
 
 ## Acoustic Problem
