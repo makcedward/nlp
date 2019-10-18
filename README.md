@@ -9,6 +9,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 *   [Data Augmentation library for Speech Recognition](https://towardsdatascience.com/data-augmentation-for-speech-recognition-e7c607482e78)
 *   [Data Augmentation library for Audio](https://towardsdatascience.com/data-augmentation-for-audio-76912b01fdf6)
 *   [Unsupervied Data Augmentation](https://medium.com/towards-artificial-intelligence/unsupervised-data-augmentation-6760456db143)
+*   [Adversarial Attacks in Textual Deep Neural Networks](https://medium.com/towards-artificial-intelligence/adversarial-attacks-in-textual-deep-neural-networks-245dc90029df)
 
 
 ## Text Preprocessing
