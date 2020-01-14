@@ -58,7 +58,9 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | Cross-lingual Language Model (XLMs) | Facebook | [Medium](https://medium.com/towards-artificial-intelligence/cross-lingual-language-model-56a65dba9358) | [Paper(2019)](https://arxiv.org/pdf/1901.07291.pdf)| 
 |  | Transformer-XL | CMU/Google | [Medium](https://medium.com/towards-artificial-intelligence/address-limitation-of-rnn-in-nlp-problems-by-using-transformer-xl-866d7ce1c8f4) | [Paper(2019)](https://arxiv.org/pdf/1901.02860.pdf)| 
 |  | XLNet | CMU/Google | [Medium](https://medium.com/dataseries/why-does-xlnet-outperform-bert-da98a8503d5b) | [Paper(2019)](https://arxiv.org/pdf/1906.08237.pdf)| 
-|  | CTRL | Salesforce | [Medium](https://medium.com/dataseries/a-controllable-framework-for-text-generation-8be9e1f2c5db) | [Paper(2019)](https://arxiv.org/pdf/1909.05858.pdf)| 
+|  | CTRL | Salesforce | [Medium](https://medium.com/dataseries/a-controllable-framework-for-text-generation-8be9e1f2c5db) | [Paper(2019)](https://arxiv.org/pdf/1909.05858.pdf)|
+|  | ALBERT | Google/Toyota | [Medium](https://medium.com/towards-artificial-intelligence/a-lite-bert-for-reducing-inference-time-bed8d990daac) | [Paper(2019)](https://arxiv.org/pdf/1909.11942.pdf)|
+|  | T5 | Googles | [Medium](https://medium.com/dataseries/text-to-text-transfer-transformer-e35dc28bae14) | [Paper(2019)](https://arxiv.org/pdf/1910.10683.pdf)|
 | Document Level | lda2vec |  | [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4) | [Paper](https://arxiv.org/pdf/1605.02019.pdf) |
 |  | doc2vec | Google | [Medium](https://towardsdatascience.com/understand-how-to-transfer-your-paragraph-to-vector-by-doc2vec-1e225ccf102) [Github](https://github.com/makcedward/nlp/blob/master/sample/embeddings/nlp-embeddings-document-doc2vec.ipynb) | [Paper](https://arxiv.org/pdf/1405.4053.pdf) |
 
@@ -79,6 +81,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | --- | --- | --- | --- | --- | --- |
 | Feature Representation | Unsupervised Learning| Introduction to Audio Feature Learning | |  [Medium](https://medium.com/hackernoon/how-can-you-apply-unsupervised-learning-on-audio-data-be95153c5860) | [Paper 1](https://ai.stanford.edu/~ang/papers/nips09-AudioConvolutionalDBN.pdf) [Paper 2](https://arxiv.org/pdf/1607.03681.pdf) [Paper 3](https://arxiv.org/pdf/1712.03835.pdf)
 | Feature Representation | Unsupervised Learning| Speech2Vec and Sentence Level Embeddings | |  [Medium](https://medium.com/towards-artificial-intelligence/two-ways-to-learn-audio-embeddings-9dfcaab10ba6) | [Paper 1](https://arxiv.org/pdf/1803.08976.pdf) [Paper 2](https://arxiv.org/pdf/1902.07817.pdf)
+| Feature Representation | Unsupervised Learning| Wav2vec | |  [Medium](https://becominghuman.ai/unsupervised-pre-training-for-speech-recognition-wav2vec-aba643824324) | [Paper](https://arxiv.org/pdf/1904.05862.pdf)
 | Speech-to-text | | Introduction to Speeh-to-text | |  [Medium](https://becominghuman.ai/how-does-your-assistant-device-work-based-on-text-to-speech-technology-5f31e56eae7e) |
 
 ## Text Distance Measurement
@@ -96,6 +99,23 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | ELI5, LIME and Skater |  |  |  | [Medium](https://towardsdatascience.com/3-ways-to-interpretate-your-nlp-model-to-management-and-customer-5428bc07ce15) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation.ipynb) |
 | SHapley Additive exPlanations (SHAP) |  |  |  | [Medium](https://towardsdatascience.com/interpreting-your-deep-learning-model-by-shap-e69be2b47893) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation_shap.ipynb) |
 | Anchors |  |  |  | [Medium](https://towardsdatascience.com/anchor-your-model-interpretation-by-anchors-aa4ed7104032) [Github](https://github.com/makcedward/nlp/blob/master/sample/nlp-model_interpretation_anchor.ipynb) |
+
+## Graph
+| Section | Sub-Section | Description | Research Lab | Story | Paper & Code |
+| --- | --- | --- | --- | --- | --- |
+| Embeddings | | TransE, RESCAL, DistMult, ComplEx, PyTorch BigGraph | |  [Medium](https://medium.com/towards-artificial-intelligence/a-gentle-introduction-to-graph-embeddings-c7b3d1db0fa8) | [RESCAL(2011)](https://pdfs.semanticscholar.org/68a3/3a3afac65eb6e0fb3726c1f9c8b727f32a42.pdf?_ga=2.21151099.1397092755.1575835510-317581445.1533093975) [TransE(2013)](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf) [DistMult(2015)](https://arxiv.org/pdf/1412.6575v4.pdf) [ComplEx(2016)](https://arxiv.org/pdf/1606.06357.pdf) [PyTorch BigGraph(2019)](https://arxiv.org/pdf/1903.12287.pdf)
+| Embeddings | | DeepWalk, node2vec, LINE, GraphSAGE | |  [Medium](https://medium.com/towards-artificial-intelligence/random-walk-in-node-embeddings-deepwalk-node2vec-line-and-graphsage-ca23df60e493) | [DeepWalk(2014)](https://arxiv.org/pdf/1403.6652.pdf) [node2vec(2015)](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf) [LINE(2015)](https://arxiv.org/pdf/1503.03578.pdf) [GraphSAGE(2018)](https://arxiv.org/pdf/1706.02216.pdf)
+| Embeddings | | WLG, GCN, GAT, GIN | |  [Medium](https://medium.com/towards-artificial-intelligence/4-graph-neural-networks-you-need-to-know-wlg-gcn-gat-gin-1bf10d29d836) | [WLG(2011)](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf) [GCN2017)](https://arxiv.org/pdf/1609.02907.pdf) [GAT(2017)](https://arxiv.org/pdf/1710.10903.pdf) [GraphSAGE(2018)](https://arxiv.org/pdf/1810.00826.pdf)
+
+## Image
+| Section | Sub-Section | Description | Research Lab | Story | Paper & Code |
+| --- | --- | --- | --- | --- | --- |
+| Object Detection |  | R-CNN | |  [Medium](https://medium.com/towards-artificial-intelligence/how-r-cnn-works-on-object-detection-443679b0187c) | [Paper(2013)](https://arxiv.org/pdf/1311.2524.pdf)
+| Object Detection |  | Fast R-CNN | |  [Medium](https://medium.com/dataseries/how-fast-r-cnn-works-on-object-detection-546e4812eaa1) | [Paper(2015)](https://arxiv.org/pdf/1504.08083.pdf)
+| Object Detection |  | Faster R-CNN | |  [Medium](https://becominghuman.ai/how-faster-r-cnn-works-on-object-detection-3d92432ce321) | [Paper(2015)](https://arxiv.org/pdf/1506.01497.pdf)
+| Object Detection |  | ResNet |Microsoft |  [Medium](https://medium.com/dataseries/how-does-resnet-improve-performance-caaa436f885b) | [Paper(2015)](https://arxiv.org/pdf/1512.03385.pdf)
+| Object Detection |  | VGGNet | |  [Medium](https://becominghuman.ai/what-is-the-vgg-neural-network-a590caa72643) | [Paper(2014)](https://arxiv.org/pdf/1409.1556.pdf)
+
 
 ## Source Code 
 | Section | Sub-Section | Description | Link |
