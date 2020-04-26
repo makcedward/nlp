@@ -62,7 +62,6 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | ALBERT | Google/Toyota | [Medium](https://medium.com/towards-artificial-intelligence/a-lite-bert-for-reducing-inference-time-bed8d990daac) | [Paper(2019)](https://arxiv.org/pdf/1909.11942.pdf)|
 |  | T5 | Googles | [Medium](https://medium.com/dataseries/text-to-text-transfer-transformer-e35dc28bae14) | [Paper(2019)](https://arxiv.org/pdf/1910.10683.pdf)|
 |  | MultiFiT |   | [Medium](https://medium.com/towards-artificial-intelligence/multi-lingual-language-model-fine-tuning-81922a80438f) | [Paper(2019)](https://arxiv.org/pdf/1909.04761.pdf) |
-
 | Document Level | lda2vec |  | [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4) | [Paper](https://arxiv.org/pdf/1605.02019.pdf) |
 |  | doc2vec | Google | [Medium](https://towardsdatascience.com/understand-how-to-transfer-your-paragraph-to-vector-by-doc2vec-1e225ccf102) [Github](https://github.com/makcedward/nlp/blob/master/sample/embeddings/nlp-embeddings-document-doc2vec.ipynb) | [Paper](https://arxiv.org/pdf/1405.4053.pdf) |
 
@@ -108,7 +107,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Embeddings | | TransE, RESCAL, DistMult, ComplEx, PyTorch BigGraph | |  [Medium](https://medium.com/towards-artificial-intelligence/a-gentle-introduction-to-graph-embeddings-c7b3d1db0fa8) | [RESCAL(2011)](https://pdfs.semanticscholar.org/68a3/3a3afac65eb6e0fb3726c1f9c8b727f32a42.pdf?_ga=2.21151099.1397092755.1575835510-317581445.1533093975) [TransE(2013)](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf) [DistMult(2015)](https://arxiv.org/pdf/1412.6575v4.pdf) [ComplEx(2016)](https://arxiv.org/pdf/1606.06357.pdf) [PyTorch BigGraph(2019)](https://arxiv.org/pdf/1903.12287.pdf)
 | Embeddings | | DeepWalk, node2vec, LINE, GraphSAGE | |  [Medium](https://medium.com/towards-artificial-intelligence/random-walk-in-node-embeddings-deepwalk-node2vec-line-and-graphsage-ca23df60e493) | [DeepWalk(2014)](https://arxiv.org/pdf/1403.6652.pdf) [node2vec(2015)](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf) [LINE(2015)](https://arxiv.org/pdf/1503.03578.pdf) [GraphSAGE(2018)](https://arxiv.org/pdf/1706.02216.pdf)
 | Embeddings | | WLG, GCN, GAT, GIN | |  [Medium](https://medium.com/towards-artificial-intelligence/4-graph-neural-networks-you-need-to-know-wlg-gcn-gat-gin-1bf10d29d836) | [WLG(2011)](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf) [GCN2017)](https://arxiv.org/pdf/1609.02907.pdf) [GAT(2017)](https://arxiv.org/pdf/1710.10903.pdf) [GraphSAGE(2018)](https://arxiv.org/pdf/1810.00826.pdf)
-| Embeddings | | [PinSAGE(2018)] (https://arxiv.org/pdf/1806.01973.pdf) | Pinterest | [Medium](https://medium.com/towards-artificial-intelligence/when-graphsage-meets-pinterest-5e82c9a88120)
+| Embeddings | | [PinSAGE(2018)](https://arxiv.org/pdf/1806.01973.pdf) | Pinterest | [Medium](https://medium.com/towards-artificial-intelligence/when-graphsage-meets-pinterest-5e82c9a88120)
 
 ## Meta-Learning
 | Section | Sub-Section | Description | Story |
