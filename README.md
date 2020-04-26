@@ -61,6 +61,8 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | CTRL | Salesforce | [Medium](https://medium.com/dataseries/a-controllable-framework-for-text-generation-8be9e1f2c5db) | [Paper(2019)](https://arxiv.org/pdf/1909.05858.pdf)|
 |  | ALBERT | Google/Toyota | [Medium](https://medium.com/towards-artificial-intelligence/a-lite-bert-for-reducing-inference-time-bed8d990daac) | [Paper(2019)](https://arxiv.org/pdf/1909.11942.pdf)|
 |  | T5 | Googles | [Medium](https://medium.com/dataseries/text-to-text-transfer-transformer-e35dc28bae14) | [Paper(2019)](https://arxiv.org/pdf/1910.10683.pdf)|
+|  | MultiFiT |   | [Medium](https://medium.com/towards-artificial-intelligence/multi-lingual-language-model-fine-tuning-81922a80438f) | [Paper(2019)](https://arxiv.org/pdf/1909.04761.pdf) |
+
 | Document Level | lda2vec |  | [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4) | [Paper](https://arxiv.org/pdf/1605.02019.pdf) |
 |  | doc2vec | Google | [Medium](https://towardsdatascience.com/understand-how-to-transfer-your-paragraph-to-vector-by-doc2vec-1e225ccf102) [Github](https://github.com/makcedward/nlp/blob/master/sample/embeddings/nlp-embeddings-document-doc2vec.ipynb) | [Paper](https://arxiv.org/pdf/1405.4053.pdf) |
 
@@ -106,6 +108,13 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Embeddings | | TransE, RESCAL, DistMult, ComplEx, PyTorch BigGraph | |  [Medium](https://medium.com/towards-artificial-intelligence/a-gentle-introduction-to-graph-embeddings-c7b3d1db0fa8) | [RESCAL(2011)](https://pdfs.semanticscholar.org/68a3/3a3afac65eb6e0fb3726c1f9c8b727f32a42.pdf?_ga=2.21151099.1397092755.1575835510-317581445.1533093975) [TransE(2013)](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf) [DistMult(2015)](https://arxiv.org/pdf/1412.6575v4.pdf) [ComplEx(2016)](https://arxiv.org/pdf/1606.06357.pdf) [PyTorch BigGraph(2019)](https://arxiv.org/pdf/1903.12287.pdf)
 | Embeddings | | DeepWalk, node2vec, LINE, GraphSAGE | |  [Medium](https://medium.com/towards-artificial-intelligence/random-walk-in-node-embeddings-deepwalk-node2vec-line-and-graphsage-ca23df60e493) | [DeepWalk(2014)](https://arxiv.org/pdf/1403.6652.pdf) [node2vec(2015)](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf) [LINE(2015)](https://arxiv.org/pdf/1503.03578.pdf) [GraphSAGE(2018)](https://arxiv.org/pdf/1706.02216.pdf)
 | Embeddings | | WLG, GCN, GAT, GIN | |  [Medium](https://medium.com/towards-artificial-intelligence/4-graph-neural-networks-you-need-to-know-wlg-gcn-gat-gin-1bf10d29d836) | [WLG(2011)](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf) [GCN2017)](https://arxiv.org/pdf/1609.02907.pdf) [GAT(2017)](https://arxiv.org/pdf/1710.10903.pdf) [GraphSAGE(2018)](https://arxiv.org/pdf/1810.00826.pdf)
+| Embeddings | | [PinSAGE(2018)] (https://arxiv.org/pdf/1806.01973.pdf) | Pinterest | [Medium](https://medium.com/towards-artificial-intelligence/when-graphsage-meets-pinterest-5e82c9a88120)
+
+## Meta-Learning
+| Section | Sub-Section | Description | Story |
+| --- | --- | --- | --- |
+| Introduction |  | [Matching Nets(2016)](https://arxiv.org/pdf/1606.04080.pdf) [MANN(2016)](https://arxiv.org/pdf/1605.06065.pdf) [LSTM-based meta-learner(2017)](https://openreview.net/pdf?id=rJY0-Kcll) [Prototypical Networks(2017)](https://arxiv.org/pdf/1703.05175.pdf) [ARC(2017)](https://arxiv.org/pdf/1703.00767.pdf) [MAML(2017)](https://arxiv.org/pdf/1703.03400.pdf) [MetaNet(2017)](https://arxiv.org/pdf/1703.00837.pdf) | [Medium](https://medium.com/towards-artificial-intelligence/a-gentle-introduction-to-meta-learning-8e36f3d93f61)  |
+| NLP | Dialog Generation | [DAML(2019)](https://arxiv.org/pdf/1906.03520.pdf), [PAML(2019)](https://arxiv.org/pdf/1905.10033.pdf), [NTMS(2019)](https://arxiv.org/pdf/1910.10487.pdf) | [Medium](https://medium.com/towards-artificial-intelligence/meta-learning-in-dialog-generation-41367e397086)
 
 ## Image
 | Section | Sub-Section | Description | Research Lab | Story | Paper & Code |
@@ -113,8 +122,10 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Object Detection |  | R-CNN | |  [Medium](https://medium.com/towards-artificial-intelligence/how-r-cnn-works-on-object-detection-443679b0187c) | [Paper(2013)](https://arxiv.org/pdf/1311.2524.pdf)
 | Object Detection |  | Fast R-CNN | |  [Medium](https://medium.com/dataseries/how-fast-r-cnn-works-on-object-detection-546e4812eaa1) | [Paper(2015)](https://arxiv.org/pdf/1504.08083.pdf)
 | Object Detection |  | Faster R-CNN | |  [Medium](https://becominghuman.ai/how-faster-r-cnn-works-on-object-detection-3d92432ce321) | [Paper(2015)](https://arxiv.org/pdf/1506.01497.pdf)
-| Object Detection |  | ResNet |Microsoft |  [Medium](https://medium.com/dataseries/how-does-resnet-improve-performance-caaa436f885b) | [Paper(2015)](https://arxiv.org/pdf/1512.03385.pdf)
 | Object Detection |  | VGGNet | |  [Medium](https://becominghuman.ai/what-is-the-vgg-neural-network-a590caa72643) | [Paper(2014)](https://arxiv.org/pdf/1409.1556.pdf)
+| Instance Segmentation | | Mask R-CNN | FAIR | [Medium](https://medium.com/dataseries/mask-r-cnn-for-instance-segmentation-7f0708e3e25b) | [Paper(2017)](https://arxiv.org/pdf/1703.06870.pdf) | 
+| Image Classification |  | [ResNet(2015)](https://arxiv.org/pdf/1512.03385.pdf) |Microsoft |  [Medium](https://medium.com/dataseries/how-does-resnet-improve-performance-caaa436f885b)  |
+| Image Classification |  | [ResNeXt(2016)](https://arxiv.org/pdf/1611.05431.pdf) | |  [Medium](https://medium.com/dataseries/enhancing-resnet-to-resnext-for-image-classification-3449f62a774c)  |
 
 
 ## Source Code 
