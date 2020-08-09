@@ -108,12 +108,16 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Embeddings | | DeepWalk, node2vec, LINE, GraphSAGE | |  [Medium](https://medium.com/towards-artificial-intelligence/random-walk-in-node-embeddings-deepwalk-node2vec-line-and-graphsage-ca23df60e493) | [DeepWalk(2014)](https://arxiv.org/pdf/1403.6652.pdf) [node2vec(2015)](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf) [LINE(2015)](https://arxiv.org/pdf/1503.03578.pdf) [GraphSAGE(2018)](https://arxiv.org/pdf/1706.02216.pdf)
 | Embeddings | | WLG, GCN, GAT, GIN | |  [Medium](https://medium.com/towards-artificial-intelligence/4-graph-neural-networks-you-need-to-know-wlg-gcn-gat-gin-1bf10d29d836) | [WLG(2011)](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf) [GCN2017)](https://arxiv.org/pdf/1609.02907.pdf) [GAT(2017)](https://arxiv.org/pdf/1710.10903.pdf) [GraphSAGE(2018)](https://arxiv.org/pdf/1810.00826.pdf)
 | Embeddings | | [PinSAGE(2018)](https://arxiv.org/pdf/1806.01973.pdf) | Pinterest | [Medium](https://medium.com/towards-artificial-intelligence/when-graphsage-meets-pinterest-5e82c9a88120)
+| Embeddings | | [HoIE(2015)](https://arxiv.org/pdf/1510.04935.pdf), [SimpIE(2018)](https://arxiv.org/pdf/1802.04868.pdf) | | [Medium](https://medium.com/towards-artificial-intelligence/knowledge-graph-embeddings-dc9251bffa80)
 
 ## Meta-Learning
 | Section | Sub-Section | Description | Story |
 | --- | --- | --- | --- |
 | Introduction |  | [Matching Nets(2016)](https://arxiv.org/pdf/1606.04080.pdf) [MANN(2016)](https://arxiv.org/pdf/1605.06065.pdf) [LSTM-based meta-learner(2017)](https://openreview.net/pdf?id=rJY0-Kcll) [Prototypical Networks(2017)](https://arxiv.org/pdf/1703.05175.pdf) [ARC(2017)](https://arxiv.org/pdf/1703.00767.pdf) [MAML(2017)](https://arxiv.org/pdf/1703.03400.pdf) [MetaNet(2017)](https://arxiv.org/pdf/1703.00837.pdf) | [Medium](https://medium.com/towards-artificial-intelligence/a-gentle-introduction-to-meta-learning-8e36f3d93f61)  |
 | NLP | Dialog Generation | [DAML(2019)](https://arxiv.org/pdf/1906.03520.pdf), [PAML(2019)](https://arxiv.org/pdf/1905.10033.pdf), [NTMS(2019)](https://arxiv.org/pdf/1910.10487.pdf) | [Medium](https://medium.com/towards-artificial-intelligence/meta-learning-in-dialog-generation-41367e397086)
+| | Classification | [Intent Embeddings(2016)](https://www.csie.ntu.edu.tw/~yvchen/doc/ICASSP16_ZeroShot.pdf) [LEOPARD(2019)](https://arxiv.org/pdf/1911.03863.pdf) | [Medium](https://medium.com/towards-artificial-intelligence/meta-learning-in-nlp-classification-db78fbcdf15c)
+| CV | Unsupervised Learning | [CACTUs(2018)](https://arxiv.org/pdf/1810.02334.pdf) | [Medium](https://medium.com/dataseries/unsupervised-learning-in-meta-learning-f71c549e2ae2)
+| General | | [Siamese Network(1994)](http://papers.nips.cc/paper/769-signature-verification-using-a-siamese-time-delay-neural-network.pdf), [Triplet Network(2015)](https://arxiv.org/pdf/1412.6622.pdf) | [Medium](https://medium.com/towards-artificial-intelligence/how-do-twins-and-triplet-neural-network-work-cfed66d9b829)
 
 ## Image
 | Section | Sub-Section | Description | Research Lab | Story | Paper & Code |
