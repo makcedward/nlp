@@ -58,10 +58,12 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | Cross-lingual Language Model (XLMs) | Facebook | [Medium](https://medium.com/towards-artificial-intelligence/cross-lingual-language-model-56a65dba9358) | [Paper(2019)](https://arxiv.org/pdf/1901.07291.pdf)| 
 |  | Transformer-XL | CMU/Google | [Medium](https://medium.com/towards-artificial-intelligence/address-limitation-of-rnn-in-nlp-problems-by-using-transformer-xl-866d7ce1c8f4) | [Paper(2019)](https://arxiv.org/pdf/1901.02860.pdf)| 
 |  | XLNet | CMU/Google | [Medium](https://medium.com/dataseries/why-does-xlnet-outperform-bert-da98a8503d5b) | [Paper(2019)](https://arxiv.org/pdf/1906.08237.pdf)| 
-|  | CTRL | Salesforce | [Medium](https://medium.com/dataseries/a-controllable-framework-for-text-generation-8be9e1f2c5db) | [Paper(2019)](https://arxiv.org/pdf/1909.05858.pdf)|
+|  | CTRL | Salesforce | [Medium](https://medium.com/dataseries/a-controllable-framework-for-text-generation-8be9e1f2c5db) | [Paper(2019)](https://arxiv.org/pdf/1909.05858.pdf)|z
 |  | ALBERT | Google/Toyota | [Medium](https://medium.com/towards-artificial-intelligence/a-lite-bert-for-reducing-inference-time-bed8d990daac) | [Paper(2019)](https://arxiv.org/pdf/1909.11942.pdf)|
 |  | T5 | Googles | [Medium](https://medium.com/dataseries/text-to-text-transfer-transformer-e35dc28bae14) | [Paper(2019)](https://arxiv.org/pdf/1910.10683.pdf)|
 |  | MultiFiT |   | [Medium](https://medium.com/towards-artificial-intelligence/multi-lingual-language-model-fine-tuning-81922a80438f) | [Paper(2019)](https://arxiv.org/pdf/1909.04761.pdf) |
+|  | XTREME |   | [Medium](https://medium.com/towards-artificial-intelligence/new-multilingual-model-xtreme-276bbaa26d79) | [Paper(2020)](https://arxiv.org/pdf/2003.11080.pdf) |
+
 | Document Level | lda2vec |  | [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4) | [Paper](https://arxiv.org/pdf/1605.02019.pdf) |
 |  | doc2vec | Google | [Medium](https://towardsdatascience.com/understand-how-to-transfer-your-paragraph-to-vector-by-doc2vec-1e225ccf102) [Github](https://github.com/makcedward/nlp/blob/master/sample/embeddings/nlp-embeddings-document-doc2vec.ipynb) | [Paper](https://arxiv.org/pdf/1405.4053.pdf) |
 
@@ -109,6 +111,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Embeddings | | WLG, GCN, GAT, GIN | |  [Medium](https://medium.com/towards-artificial-intelligence/4-graph-neural-networks-you-need-to-know-wlg-gcn-gat-gin-1bf10d29d836) | [WLG(2011)](http://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf) [GCN2017)](https://arxiv.org/pdf/1609.02907.pdf) [GAT(2017)](https://arxiv.org/pdf/1710.10903.pdf) [GraphSAGE(2018)](https://arxiv.org/pdf/1810.00826.pdf)
 | Embeddings | | [PinSAGE(2018)](https://arxiv.org/pdf/1806.01973.pdf) | Pinterest | [Medium](https://medium.com/towards-artificial-intelligence/when-graphsage-meets-pinterest-5e82c9a88120)
 | Embeddings | | [HoIE(2015)](https://arxiv.org/pdf/1510.04935.pdf), [SimpIE(2018)](https://arxiv.org/pdf/1802.04868.pdf) | | [Medium](https://medium.com/towards-artificial-intelligence/knowledge-graph-embeddings-dc9251bffa80)
+| Embeddings | | [ContE(2017)](http://repository.ittelkom-pwt.ac.id/4358/1/Learning%20Contextual%20Embeddings%20for%20Knowledge%20Graph%20Completion.pdf), [ETE(2017)](https://persagen.com/files/misc/Moon2017Learning.pdf) | | [Medium](https://medium.com/towards-artificial-intelligence/from-conte-to-entity-type-embeddings-in-natural-language-processing-19e53db90dd5)
 
 ## Meta-Learning
 | Section | Sub-Section | Description | Story |
@@ -118,6 +121,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | | Classification | [Intent Embeddings(2016)](https://www.csie.ntu.edu.tw/~yvchen/doc/ICASSP16_ZeroShot.pdf) [LEOPARD(2019)](https://arxiv.org/pdf/1911.03863.pdf) | [Medium](https://medium.com/towards-artificial-intelligence/meta-learning-in-nlp-classification-db78fbcdf15c)
 | CV | Unsupervised Learning | [CACTUs(2018)](https://arxiv.org/pdf/1810.02334.pdf) | [Medium](https://medium.com/dataseries/unsupervised-learning-in-meta-learning-f71c549e2ae2)
 | General | | [Siamese Network(1994)](http://papers.nips.cc/paper/769-signature-verification-using-a-siamese-time-delay-neural-network.pdf), [Triplet Network(2015)](https://arxiv.org/pdf/1412.6622.pdf) | [Medium](https://medium.com/towards-artificial-intelligence/how-do-twins-and-triplet-neural-network-work-cfed66d9b829)
+| | [MAML+(2018)](https://arxiv.org/pdf/1810.09502.pdf) | [Medium](https://medium.com/towards-artificial-intelligence/from-maml-to-maml-20de07203d59)
 
 ## Image
 | Section | Sub-Section | Description | Research Lab | Story | Paper & Code |
@@ -130,6 +134,13 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 | Image Classification |  | [ResNet(2015)](https://arxiv.org/pdf/1512.03385.pdf) |Microsoft |  [Medium](https://medium.com/dataseries/how-does-resnet-improve-performance-caaa436f885b)  |
 | Image Classification |  | [ResNeXt(2016)](https://arxiv.org/pdf/1611.05431.pdf) | |  [Medium](https://medium.com/dataseries/enhancing-resnet-to-resnext-for-image-classification-3449f62a774c)  |
 
+## Evaluation
+| Section | Sub-Section | Description | Story |
+| --- | --- | --- | --- |
+| Introduction | | | [Medium](https://medium.com/towards-artificial-intelligence/evaluation-metrics-are-what-you-need-to-define-in-the-earlier-stage-99dbfae51472)
+| Classification | | Confusion Matrix, ROC, AUC | [Medium](https://medium.com/towards-artificial-intelligence/evaluation-metrics-for-classification-problems-e7442092bc5)
+| Regression | | MAE, MSE, RMSE, MAPE, WMAPE | [Medium](https://medium.com/towards-artificial-intelligence/evaluation-metrics-for-regression-problems-fff2ac8e3f43)
+| Textual | | Perplexity, BLEU, GER, WER, GLUE | [Medium](https://medium.com/towards-artificial-intelligence/evaluation-metrics-for-textual-problems-6e881feef5ad)
 
 ## Source Code 
 | Section | Sub-Section | Description | Link |
