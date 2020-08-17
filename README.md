@@ -11,6 +11,8 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 *   [Unsupervied Data Augmentation](https://medium.com/towards-artificial-intelligence/unsupervised-data-augmentation-6760456db143)
 *   [Adversarial Attacks in Textual Deep Neural Networks](https://medium.com/towards-artificial-intelligence/adversarial-attacks-in-textual-deep-neural-networks-245dc90029df)
 
+## General
+*	[Tricks of Building an ML or DNN Model](https://medium.com/towards-artificial-intelligence/tricks-of-building-an-ml-or-dnn-model-b2de54cf440a)
 
 ## Text Preprocessing
 | Section | Sub-Section | Description | Story |
@@ -63,6 +65,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 |  | T5 | Googles | [Medium](https://medium.com/dataseries/text-to-text-transfer-transformer-e35dc28bae14) | [Paper(2019)](https://arxiv.org/pdf/1910.10683.pdf)|
 |  | MultiFiT |   | [Medium](https://medium.com/towards-artificial-intelligence/multi-lingual-language-model-fine-tuning-81922a80438f) | [Paper(2019)](https://arxiv.org/pdf/1909.04761.pdf) |
 |  | XTREME |   | [Medium](https://medium.com/towards-artificial-intelligence/new-multilingual-model-xtreme-276bbaa26d79) | [Paper(2020)](https://arxiv.org/pdf/2003.11080.pdf) |
+|  | REALM |   | [Medium](https://medium.com/towards-artificial-intelligence/realm-retrieval-augmented-language-model-pre-training-534feae7ab98) | [Paper(2020)](https://arxiv.org/pdf/2002.08909.pdf) |
 
 | Document Level | lda2vec |  | [Medium](https://towardsdatascience.com/combing-lda-and-word-embeddings-for-topic-modeling-fe4a1315a5b4) | [Paper](https://arxiv.org/pdf/1605.02019.pdf) |
 |  | doc2vec | Google | [Medium](https://towardsdatascience.com/understand-how-to-transfer-your-paragraph-to-vector-by-doc2vec-1e225ccf102) [Github](https://github.com/makcedward/nlp/blob/master/sample/embeddings/nlp-embeddings-document-doc2vec.ipynb) | [Paper](https://arxiv.org/pdf/1405.4053.pdf) |
