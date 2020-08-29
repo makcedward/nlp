@@ -10,6 +10,7 @@ Repository to show how NLP can tacke real problem. Including the source code, da
 *   [Data Augmentation library for Audio](https://towardsdatascience.com/data-augmentation-for-audio-76912b01fdf6)
 *   [Unsupervied Data Augmentation](https://medium.com/towards-artificial-intelligence/unsupervised-data-augmentation-6760456db143)
 *   [Adversarial Attacks in Textual Deep Neural Networks](https://medium.com/towards-artificial-intelligence/adversarial-attacks-in-textual-deep-neural-networks-245dc90029df)
+*	[Back Translation in Text Augmentation by nlpaug](https://medium.com/towards-artificial-intelligence/back-translation-in-text-augmentation-by-nlpaug-d65518dd092f)
 
 ## General
 *	[Tricks of Building an ML or DNN Model](https://medium.com/towards-artificial-intelligence/tricks-of-building-an-ml-or-dnn-model-b2de54cf440a)
