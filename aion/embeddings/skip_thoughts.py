@@ -14,6 +14,8 @@
 # ==============================================================================
 
 import os, datetime
+impport numpy as np
+import torch
 
 class SkipThoughtsEmbeddingsTorch:
     DICTIONARY_URL = "http://www.cs.toronto.edu/~rkiros/models/dictionary.txt"
