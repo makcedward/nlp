@@ -11,8 +11,8 @@ from .infersent_lib.models import InferSent
 
 
 class InferSentEmbeddings(SentenceEmbeddings):
-    INFERSENT_GLOVE_MODEL_URL = 'https://s3.amazonaws.com/senteval/infersent/infersent1.pkl'
-    INFERSENT_FASTTEXT_MODEL_URL = 'https://s3.amazonaws.com/senteval/infersent/infersent2.pkl'
+    INFERSENT_GLOVE_MODEL_URL = 'https://dl.fbaipublicfiles.com/senteval/infersent/infersent1.pkl'
+    INFERSENT_FASTTEXT_MODEL_URL = 'https://dl.fbaipublicfiles.com/senteval/infersent/infersent2.pkl'
     
     def __init__(self, 
                  word_embeddings_dir,
